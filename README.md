@@ -20,6 +20,13 @@ Now you can use this bot with this command:
 ```
 ytt
 ```
+
+- If you want to uninstall ytt App, run this command:
+```
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/nimafanniasl/py_youtube_to_telegram/main/uninstaller/uninstall.sh)"
+```
+if This app have any problem, please report in here: https://github.com/nimafanniasl/py_youtube_to_telegram/issues
+
 ------------------
 
 - But If you don't want to install this tool and want it to run directly, run these command:
