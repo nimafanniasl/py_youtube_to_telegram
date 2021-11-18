@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import scrapetube
 import telegram
 from pytube import YouTube
