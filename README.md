@@ -8,4 +8,23 @@
 
 ----------------------
 
-Python bot for send videos of a Youtube channel to a telegram group , channel or chat
+## Usage:
+
+- If you want to install ytt and use it, run this commands:
+```
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/nimafanniasl/py_youtube_to_telegram/main/installer/install.sh)"
+```
+Now you can use this bot with this command:
+```
+ytt
+```
+------------------
+
+- But If you don't want to install this tool and want it to run directly, run these commands:
+```
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/nimafanniasl/py_youtube_to_telegram/main/installer/download.sh)"
+```
+Now you can use this bot with this command:
+```
+python ./bot.py
+```
