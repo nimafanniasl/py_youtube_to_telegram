@@ -10,7 +10,7 @@
 
 ## Usage:
 
-- If you want to install ytt and use it, run this commands:
+- If you want to install ytt and use it, run this command:
 ```
 sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/nimafanniasl/py_youtube_to_telegram/main/installer/install.sh)"
 ```
@@ -20,7 +20,7 @@ ytt
 ```
 ------------------
 
-- But If you don't want to install this tool and want it to run directly, run these commands:
+- But If you don't want to install this tool and want it to run directly, run these command:
 ```
 sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/nimafanniasl/py_youtube_to_telegram/main/installer/download.sh)"
 ```
