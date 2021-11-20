@@ -31,7 +31,7 @@ if This app have any problem, please report in here: https://github.com/nimafann
 
 - But If you don't want to install this tool and want it to run directly, run these command:
 ```
-sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/nimafanniasl/py_youtube_to_telegram/main/installer/download.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/nimafanniasl/py_youtube_to_telegram/main/installer/download.sh)"
 ```
 Now you can use this bot with this command:
 ```
