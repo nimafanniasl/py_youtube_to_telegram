@@ -46,6 +46,6 @@ pip install ytt
 Docs Of this mudule: https://github.com/nimafanniasl/py_youtube_to_telegram/tree/main/module
 
 --------------------------
-# Links:
+# links:
 
 <a href="https://pythonawesome.com/python-bot-for-send-videos-of-a-youtube-channel-to-a-telegram-group-channel-or-chat/">Python Awesome</a>
