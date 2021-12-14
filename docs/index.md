@@ -45,5 +45,8 @@ Docs Of this mudule: https://github.com/nimafanniasl/py_youtube_to_telegram/tree
 
 --------------------------
 # Links:
-
+<a href="https://pypi.org/project/ytt/">PyPI</a>
+<br>
 <a href="https://pythonawesome.com/python-bot-for-send-videos-of-a-youtube-channel-to-a-telegram-group-channel-or-chat/">Python Awesome</a>
+<br>
+<a href="https://pythonrepo.com/repo/nimafanniasl-py_youtube_to_telegram">Python Repo</a>
